@@ -50,7 +50,4 @@ If you encounter any issues, ensure the following:
 - The model's hyperparameters are appropriately tuned.
 For additional help, refer to the documentation of the machine learning libraries used in this project, or consult relevant community forums.
 
----
-
-This README provides a structured overview of your project, following the format you requested.
 
