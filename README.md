@@ -1,5 +1,3 @@
-Here's the README file for your Heart Disease Prediction Model project in the format you provided:
-
 ---
 
 # Heart Disease Prediction Model
@@ -50,4 +48,8 @@ If you encounter any issues, ensure the following:
 - The model's hyperparameters are appropriately tuned.
 For additional help, refer to the documentation of the machine learning libraries used in this project, or consult relevant community forums.
 
+## Author
+- **Deepank Yadav**
+- Email: yadavdeepank6@gmail.com
 
+---
